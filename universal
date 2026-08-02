@@ -265,7 +265,7 @@ local customPhrases = {
 "Finalizing execution environment..."
 }
 
-local TARGET_TIME = 140
+local TARGET_TIME = 105
 local startTime = os.time()
 
 while true do
